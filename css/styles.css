@@ -1,0 +1,88 @@
+#red{
+	background: red;
+}
+
+#blue{
+	background: blue;
+}
+
+#green{
+	background: green;
+}
+
+#purple{
+	background: purple;
+}
+
+#gray{
+	background: gray;
+}
+
+#fuchsia{
+	background: fuchsia;
+}
+
+#yellow{
+	background: yellow;
+}
+
+#content{
+	margin-top: 75px;
+}
+
+body{
+	background-color: fuchsia;
+}
+
+#beauty{
+	
+
+}
+
+#BigEarrings{
+
+}
+
+#NiceBracelets{
+
+}
+
+#ExpensiveBracelets{
+
+}
+
+.thumbnail{
+	height: 300px;
+	width: 200px;
+}
+
+
+.navbar{
+	background-color: #54DDE2;
+	font-weight: bold;
+}
+
+.jumbotron{
+	position: relative;
+	background:url("../images/FullSizeRender.jpg")center center;
+	width: 100%;
+	height: 100%;
+	background-size: cover;
+	overflow: hidden;
+	padding-bottom: -98px;
+}
+
+.jumbotron_text{
+	background-color: rgba(112, 200, 186,75);
+	color: white;
+	padding: 100px;
+}
+.profilepic{
+	border: 10px dashed #EF3560 ;
+}
+#footer{
+	text-align: center;
+	margin-top: 50px;
+}
+
+
